@@ -12,5 +12,6 @@ public class HelloWorld {
         System.out.println("get method");
         //zhushi by @author licf
         //@TODO ha
+        jiushichucocaishizhendeihao.
     }
 }
